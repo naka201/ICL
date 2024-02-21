@@ -1,0 +1,10 @@
+good
+bad
+accept
+reject
+attack
+defend
+black
+white
+end
+beginning

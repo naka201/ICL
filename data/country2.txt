@@ -1,0 +1,10 @@
+japan
+tokyo
+spain
+madrid
+france
+paris
+italy
+rome
+germany
+berlin

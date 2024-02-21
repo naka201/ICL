@@ -1,0 +1,10 @@
+good
+better
+little
+less
+many
+more
+bad
+worse
+old
+older

@@ -1,0 +1,12 @@
+man
+men
+woman
+women
+child
+children
+foot
+feet
+knife
+knives
+tooth
+teeth
