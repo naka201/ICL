@@ -19,12 +19,19 @@ pip install -r requirements.txt
 
 ## Usage
 
-Training the Model
+Creating DataFrames with Embeddings
 
+To create DataFrames with word embeddings, use dataframe_openai.py
+```bash
+python dataframe_openai.py
+```
+
+Training the Model
 To train the model, run:
 ```bash
 python llm_embed.py --exec learn_only
 ```
+data1 is training data
 
 Making Predictions
 
@@ -32,6 +39,7 @@ To make predictions, run:
 ```bash
 python llm_embed.py --exec pred_only
 ```
+data2 is test data
 
 Full Execution(Training and Prediction)
 
@@ -55,7 +63,8 @@ This project requires:
 
 This project includes:
 - llm_embed.py: Main script for training and prediction.
-- dataset/dataset_variousword.csv: CSV file containing word embeddings.
-- dataset/dataset_variouspred.csv: CSV file containing prediction embeddings.
-- models.py: Contains the linear regression model class.
-- test_llm_embed.py: Test script for the linear regression model.
+- dataframe_openai.py : Convert words to word embeddings and make dataframe.
+- data : Containing various words for training and prediction.
+- dataset/dataset_variousword.csv: CSV file containing word embedding for training.
+- dataset/dataset_variouspred.csv: CSV file containing word for predicting .
+- skipgram.py: For comparison with llm_embed.py.
