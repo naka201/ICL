@@ -42,20 +42,20 @@ python llm_embed.py --exec all
 
 ## Requirements
 
-Requirements
-	•	Python3.7+
-	•	pandas
-	•	numpy
-	•	torch
-	•	scikit-learn
-	•	matplotlib
+This project requires:
+- Python 3.7+
+- pandas
+- numpy
+- torch
+- scikit-learn
+- matplotlib
 
 
  ## Files
 
-Files
-	•	llm_embed.py: Main script for training and prediction.
-	•	dataset/dataset_variousword.csv: CSV file containing word embeddings.
-	•	dataset/dataset_variouspred.csv: CSV file containing prediction embeddings.
-	•	models.py: Contains the linear regression model class.
-	•	test_llm_embed.py: Test script for the linear regression model.
+This project includes:
+- llm_embed.py: Main script for training and prediction.
+- dataset/dataset_variousword.csv: CSV file containing word embeddings.
+- dataset/dataset_variouspred.csv: CSV file containing prediction embeddings.
+- models.py: Contains the linear regression model class.
+- test_llm_embed.py: Test script for the linear regression model.
