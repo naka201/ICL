@@ -12,14 +12,6 @@ This project includes:
 - Training a linear regression model
 - Predicting relationships and similarities between words
 
-## Installation
-
-To install the required dependencies, run:
-```bash
-pip install -r requirements.txt
-
-```
-
 ## Usage
 
 Creating DataFrames with Embeddings
