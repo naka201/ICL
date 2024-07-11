@@ -28,7 +28,7 @@ python dataframe_openai.py
 
 Training the Model
 
-data1 in llm_embed.py is training data
+・data1 in llm_embed.py is training data
 
 To train the model, run:
 ```bash
@@ -37,7 +37,7 @@ python llm_embed.py --exec learn_only
 
 Making Predictions
 
-data2 in llm_embed.py is test data
+・data2 in llm_embed.py is test data
 
 To make predictions, run:
 ```bash
