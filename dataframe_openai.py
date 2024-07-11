@@ -2,7 +2,7 @@ import openai
 import pandas as pd
 
 # OpenAI APIキーを設定
-api_key = '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'
+api_key = 'YOUR OPENAI API'
 openai.api_key = api_key
 
 # 単語の取得
