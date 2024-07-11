@@ -1,6 +1,7 @@
 # ICL Project
 
 This is a senior undergraduate research project conducted during the fourth year of university.
+
 I investigated the properties of LLM embedding vectors.
 
 
