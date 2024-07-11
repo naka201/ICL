@@ -1,6 +1,8 @@
 # ICL Project
 
-This project performs linear regression using word embeddings for predicting relationships between words.
+This is a senior undergraduate research project conducted during the fourth year of university.
+I investigated the properties of LLM embedding vectors.
+
 
 ## Overview
 
